@@ -1,0 +1,16 @@
+{
+    "name": "macbook/googlesheet",
+    "description": "google sheet api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ronald Aug",
+            "email": "saisenfa@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "2.0",
+        "hybridauth/hybridauth" : "~3.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
